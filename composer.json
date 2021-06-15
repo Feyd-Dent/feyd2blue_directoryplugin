@@ -1,0 +1,17 @@
+{
+    "name": "dan/feyd2blue_directoryplugin",
+    "description": "Airsoft Directory",
+    "type": "project",
+    "license": "private",
+    "authors": [
+        {
+            "name": "Daniel Kennedy",
+            "email": "fade.rocks@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./includes"}
+    }
+}
