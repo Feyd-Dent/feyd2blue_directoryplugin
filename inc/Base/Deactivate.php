@@ -3,7 +3,7 @@
  *  * Plugin Name:     Feyd2Blue Directory
  * 
  *  */ 
-namespace Inc;
+namespace Inc\Base;
 
 class Deactivate 
 {

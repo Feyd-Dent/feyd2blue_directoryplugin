@@ -3,9 +3,9 @@
  *  * Plugin Name:     Feyd2Blue Directory
  * 
  *  */ 
-namespace Inc;
+namespace Inc\Base;
 
- class Activate 
+ class Activate
  {
     public static function activate() {
         flush_rewrite_rules();
